@@ -39,5 +39,6 @@ Income:
   time: '2018-03-01T08:00:00Z'
 }
 
+# Questions
 1. Calculate the balance in a specific category within the specified time period
 2. Find all transactions that have the same source, target, category, amount, and with a time difference of less than 1 minute.
